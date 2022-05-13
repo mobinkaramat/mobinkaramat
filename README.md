@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mobinkaramat
-- 👀 I’m interested in learning more about blockchain and hwo to improve processes and secure information.
+- 👀 I’m interested in learning more about blockchain and how to improve processes and secure information.
 - 🌱 I’m currently learning Corda.
 - 💞️ I’m looking to collaborate on Corda and blockchain in general.
 - 📫 I can be reached on mkaramat10@gmail.com.
